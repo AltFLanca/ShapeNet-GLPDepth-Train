@@ -1,7 +1,7 @@
 [project]
 name = "shapenetsem-depth"
 version = "0.1.0"
-description = "Add your description here"
+description = "Fine-tune GLP-Depth on rendered ShapeNetSem images with optional depth correction."
 readme = "README.md"
 requires-python = ">=3.10.19"
 dependencies = [
